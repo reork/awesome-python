@@ -1,7 +1,10 @@
 # Contributing
 
-Your contributions are always welcome!
+Please sen a mail to "kasjask@kjadash.fr
 
+
+Your contributions are always welcome!
+git@github.com:reork/awesome-python.git
 ## Guidelines
 
 * Add one link per Pull Request.
